@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coco080
 - 👀 I’m interested in learning Java
 - 🌱 I’m currently learning java (newbie)
-- 💞️ I’m looking to collaborate on anything that will help in learning and growing my skill in programming (specifically in java)
+- 💞️ I’m looking to collaborate on anything that will help me in learning and growing my skill in programming (specifically in java)
 
 
 <!---
